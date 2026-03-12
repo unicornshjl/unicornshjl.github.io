@@ -1,0 +1,8 @@
+- id: home
+  translation: "首页"
+
+- id: archives
+  translation: "归档"
+
+- id: search
+  translation: "搜索"

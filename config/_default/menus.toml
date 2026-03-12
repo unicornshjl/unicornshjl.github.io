@@ -1,0 +1,25 @@
+# 2. 归档
+[[main]]
+    identifier = "archives"
+    name       = "Archive"
+    url        = "/archives/"
+    weight     = 20
+    [main.params]
+        icon = "archives"
+
+# 3. 搜索 (主题自带了强大的搜索页面，建议保留)
+[[main]]
+    identifier = "search"
+    name       = "Search"
+    url        = "/search/"
+    weight     = 30
+    [main.params]
+        icon = "search"
+
+# 4. 底部的社交账号
+[[social]]
+    identifier = "github"
+    name       = "GitHub"
+    url        = "mailto:3159669749@qq.com"  # 您的 GitHub 主页
+    [social.params]
+        icon = "brand-github"
